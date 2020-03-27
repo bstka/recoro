@@ -2,6 +2,10 @@
 
 > Proyek ini dibuat menggunakan [Create React App](https://github.com/facebook/create-react-app)
 
+<a href="https://dev.to/bstka">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Bismantaka Aldila's DEV Profile" height="30" width="30">
+</a>
+
 [![CircleCI](https://circleci.com/gh/bstka/recoro.svg?style=svg)](https://circleci.com/gh/bstka/recoro)
 
 [![Build Status](https://travis-ci.com/bstka/recoro.svg?branch=master)](https://travis-ci.com/bstka/recoro)
@@ -25,5 +29,5 @@
 
 ## License
 
-MIT License 2020, bstka
+MIT License 2020, bstka 
 
