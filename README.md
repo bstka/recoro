@@ -2,6 +2,12 @@
 
 > Proyek ini dibuat menggunakan [Create React App](https://github.com/facebook/create-react-app)
 
+[![CircleCI](https://circleci.com/gh/bstka/recoro.svg?style=svg)](https://circleci.com/gh/bstka/recoro)
+
+[![Build Status](https://travis-ci.com/bstka/recoro.svg?branch=master)](https://travis-ci.com/bstka/recoro)
+
+![Node.js CI](https://github.com/bstka/recoro/workflows/Node.js%20CI/badge.svg)
+
 [![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/import/project?template=https://github.com/bstka/recoro)
 
 ## Pengembangan
