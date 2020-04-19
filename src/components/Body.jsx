@@ -8,7 +8,7 @@ import Axios from "axios"
 import BulTips from "./BulTips"
 
 // const url = 'https://coronavirus-tracker-api.herokuapp.com/v2/locations/132'
-const url2 = 'https://corona.lmao.ninja/countries/indonesia'
+const url2 = 'https://corona.lmao.ninja/v2/countries/indonesia'
 
 export class Body extends Component {
     // eslint-disable-next-line
